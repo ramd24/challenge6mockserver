@@ -7,6 +7,24 @@
       "lastname": "Doe",
       "isAdmin": true,
       "id": 1
+    },
+    {
+      "email": "buburayam@bubur.com",
+      "password": "$2a$10$l.OytlDCwV6C/X6BmsWVFOunxhAvDxEp7LuBKnlgaEVZ3FqIzW9qi",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "email": "buburayam@bubu1r.com",
+      "password": "$2a$10$Ao0cxPXK/FiuxNO1Eln4u.Bt81r342hO7X86JJ7jrutiKFIXGnsUS",
+      "isAdmin": false,
+      "id": 3
+    },
+    {
+      "email": "test@test.com",
+      "password": "$2a$10$RYiIyTjlonCLzHbwy.gZdenuauqq87XwmfsQDoC2Fu.bL9E9AhP5K",
+      "isAdmin": false,
+      "id": 4
     }
   ],
   "products": [
